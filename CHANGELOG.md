@@ -2,6 +2,12 @@
 
 All notable changes to the DominoGue.
 
+## v0.19.0-beta — 2026-07-16
+### Changed
+- **Official studio splash.** Boot now opens on the real Devious Developments logo art —
+  the horned D/D mark with "DEVIOUS DEVELOPMENTS · PRESENTS" — replacing the earlier
+  code-drawn wordmark. Same timing, still click-to-skip.
+
 ## v0.18.0-beta — 2026-07-15
 ### Added
 - **Free browser demo.** The itch.io browser edition is now a **demo** — it plays through **Act 1**
